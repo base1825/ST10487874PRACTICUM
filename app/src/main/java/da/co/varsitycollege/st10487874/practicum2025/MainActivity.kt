@@ -26,7 +26,12 @@ class MainActivity : AppCompatActivity() {
         val text2= findViewById<EditText>(R.id.Text2)
         val text3= findViewById<EditText>(R.id.Text3)
         val text4= findViewById<EditText>(R.id.Text4)
-    addButton.setOnClickListener{
+        val songtitle=  mutableListOf<String>()
+        val ArtistName=  mutableListOf<String>()
+        val Rating=  mutableListOf<String>()
+        val comments=  mutableListOf<String>()
+
+        addButton.setOnClickListener{
         val userInput1 =editText.text.toString().trim().lowercase()
         val userInput2=text2.text.toString().trim().lowercase()
         val userInput3= text3.text.toString().trim().lowercase()
@@ -36,6 +41,13 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, SecondActivity::class.java)
         startActivity(intent)
     }
+        val intent= Intent(this,SecondActivity::class.java)
+        intent.putStringArrayListExtra("song", ArrayList(songtitle))
+        intent.putStringArrayListExtra("artist",ArrayList(ArtistName))
+            intent.putStringArrayListExtra("rating",ArrayList(Rating))
+            intent.putStringArrayListExtra("comment", ArrayList(comments))
+        startActivity(intent)
+
     exitButton.setOnClickListener {
         finish()
     }
