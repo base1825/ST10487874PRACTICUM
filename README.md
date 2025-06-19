@@ -29,4 +29,6 @@ make project 3. Run the APP -connect an android device via USB or start an emula
 ## GitHub Actions and Github
 This project uses GitHub Actions to automates the build and test process. every time code is opened , github Actions automatically : -Checks out the latest code -builds the project using gradle -Runs tests to ensure everything works as expected. This project is managed using to track changes in the codebase A central place to collaborate, manage issues, and review code integration with tools like github for automating builds,tests,and deployments.
 ## links and screenshots
+use this link to assess my repository
 
+https://github.com/base1825/ST10487874PRACTICUM.git
