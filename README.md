@@ -28,6 +28,10 @@ make project 3. Run the APP -connect an android device via USB or start an emula
 
 ## GitHub Actions and Github
 This project uses GitHub Actions to automates the build and test process. every time code is opened , github Actions automatically : -Checks out the latest code -builds the project using gradle -Runs tests to ensure everything works as expected. This project is managed using to track changes in the codebase A central place to collaborate, manage issues, and review code integration with tools like github for automating builds,tests,and deployments.
+## DESIGN CONSIDERATIONS
+the app launch on a easy to use cozy and friendly screen with a background that inspire melodie , make the user wanna sing but most important wanna explore the potential of the app .this give a kind of vintage vibe wchich is preetty cool.
+on the second screen we go easy with a key background which gives minimakist and we like it.
+
 ## links and screenshots
 use this link to assess my repository
 
