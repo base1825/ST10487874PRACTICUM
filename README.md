@@ -34,5 +34,9 @@ on the second screen we go easy with a key background which gives minimakist and
 
 ## links and screenshots
 use this link to assess my repository
-
 https://github.com/base1825/ST10487874PRACTICUM.git
+![image](https://github.com/user-attachments/assets/b317c1ae-4ecf-4526-a7a7-a5002ffb41c5)![Screenshot 2025-06-19 122903](https://github.com/user-attachments/assets/ad8bebb3-1fcb-464f-878f-e7848337a207)
+![Screenshot 2025-06-19 122719](https://github.com/user-attachments/assets/1e9269cf-674c-4d1c-a34c-d7211d6353a7)
+
+
+![MAIN PIC COD](https://github.com/user-attachments/assets/ff13f87e-b60c-4c55-af82-8b1a0f092cb0)
